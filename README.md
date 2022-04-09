@@ -1,5 +1,5 @@
-<br>
-Analisando-perfil-dos-profissionais-de-dados-no-Brasil
+
+Analisando perfil do profissional Cientista de Dados.
 
 Nesta análise de dados será possível observar diversos insights sobre a área de ciência de dados no Brasil.
 Como:
