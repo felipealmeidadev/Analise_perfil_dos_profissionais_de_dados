@@ -3,13 +3,19 @@ Analisando-perfil-dos-profissionais-de-dados-no-Brasil
 
 Nesta análise de dados será possível observar diversos insights sobre a área de ciência de dados no Brasil.
 Como:
-
+<br>
 -Análise de Idade;
+<br>
 -Análise de Sexo;
 -Análise de Escolaridade;
--Análise de Empresas;
--Análise de Salários;
--Análise experiência;
--Análise por regiões;
--Análise de utilização de ferramentas.
 <br>
+-Análise de Empresas;
+<br>
+-Análise de Salários;
+<br>
+-Análise experiência;
+<br>
+-Análise por regiões;
+<br>
+-Análise de utilização de ferramentas.
+</div>
