@@ -1,3 +1,4 @@
+<br>
 Analisando-perfil-dos-profissionais-de-dados-no-Brasil
 
 Nesta análise de dados será possível observar diversos insights sobre a área de ciência de dados no Brasil.
@@ -11,3 +12,4 @@ Como:
 -Análise experiência;
 -Análise por regiões;
 -Análise de utilização de ferramentas.
+<br>
