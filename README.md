@@ -4,6 +4,7 @@ Analisando perfil do profissional Cientista de Dados.
 Nesta análise de dados será possível observar diversos insights sobre a área de ciência de dados no Brasil.
 Como:
 <br>
+<br>
 -Análise de Idade;
 <br>
 -Análise de Sexo;
